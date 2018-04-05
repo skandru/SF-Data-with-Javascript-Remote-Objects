@@ -1,0 +1,140 @@
+[
+    [
+        "C:\\Users\\skand\\vfltng\\force-app",
+        {
+            "sourcePath": "C:\\Users\\skand\\vfltng\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522868772296,
+            "changeTime": 1522868772296,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\skand\\vfltng\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\skand\\vfltng\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522868772297,
+            "changeTime": 1522868772297,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\skand\\vfltng\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\skand\\vfltng\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522869091610,
+            "changeTime": 1522869091610,
+            "contentHash": "2270d5c541f734a0f96529fc89b4af958ffb3dda",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\skand\\vfltng\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\skand\\vfltng\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522868772297,
+            "changeTime": 1522868772297,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\skand\\vfltng",
+        {
+            "sourcePath": "C:\\Users\\skand\\vfltng",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522868844097,
+            "changeTime": 1522868940469,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\skand\\vfltng\\force-app\\main\\default\\pages\\Trailhead_SLDS_Listview.page-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\skand\\vfltng\\force-app\\main\\default\\pages\\Trailhead_SLDS_Listview.page-meta.xml",
+            "isDirectory": false,
+            "size": 299,
+            "modifiedTime": 1522869091614,
+            "changeTime": 1522869091614,
+            "contentHash": "7f25ad97f95f1bf2cc8fa35d43efe0a4d1eb59b4",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\skand\\vfltng\\force-app\\main\\default\\pages\\Trailhead_SLDS_Listview.page",
+        {
+            "sourcePath": "C:\\Users\\skand\\vfltng\\force-app\\main\\default\\pages\\Trailhead_SLDS_Listview.page",
+            "isDirectory": false,
+            "size": 2377,
+            "modifiedTime": 1522870018073,
+            "changeTime": 1522869560397,
+            "contentHash": "113d475d252a3f1c5ca03e0dc3fda7f9a7268e4f",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\skand\\vfltng\\force-app\\main\\default\\pages",
+        {
+            "sourcePath": "C:\\Users\\skand\\vfltng\\force-app\\main\\default\\pages",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1522871220421,
+            "changeTime": 1522871220421,
+            "contentHash": "01d8fadefc4ce504abf67788a7642e17175941ce",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\skand\\vfltng\\force-app\\main\\default\\pages\\Trailhead_SLDS_Listview_Data.page-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\skand\\vfltng\\force-app\\main\\default\\pages\\Trailhead_SLDS_Listview_Data.page-meta.xml",
+            "isDirectory": false,
+            "size": 304,
+            "modifiedTime": 1522871220418,
+            "changeTime": 1522871220418,
+            "contentHash": "d0340eed8bf5243a5785551e4431d963af0096e0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\skand\\vfltng\\force-app\\main\\default\\pages\\Trailhead_SLDS_Listview_Data.page",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\skand\\vfltng\\force-app\\main\\default\\pages\\Trailhead_SLDS_Listview_Data.page",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 6151,
+            "modifiedTime": 1522897982963,
+            "changeTime": 1522897982964,
+            "contentHash": "b4d75641f02658afd4c2bf9c83dd3ebeb2a1b6ad"
+        }
+    ]
+]
